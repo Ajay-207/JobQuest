@@ -5,5 +5,7 @@ Built using HTML, CSS, React.js for the frontend, and Node.js, Express.js, and M
 
 Usage:
 Sign Up / Log In: Create an account or log in as an employer or job seeker.
+
 Employers: Post new job listings, update existing ones, or delete jobs no longer available.
+
 Job Seekers: Browse available jobs and apply for positions directly through the application.
