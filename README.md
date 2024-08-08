@@ -2,6 +2,13 @@ JobQuest is a web application that facilitates seamless interaction between empl
 
 Built using HTML, CSS, React.js for the frontend, and Node.js, Express.js, and MongoDB for the backend, it provides a robust platform for job searching and hiring. The application features secure user authentication and authorization using JWT, and password security is enhanced with bcrypt hashing. Employers can post, update, and delete job listings, while job seekers can browse and apply for jobs.
 
+Technologies Used:
+
+Frontend: HTML, CSS, React.js
+
+Backend: Node.js, Express.js
+
+Database: MongoDB
 
 Usage:
 
