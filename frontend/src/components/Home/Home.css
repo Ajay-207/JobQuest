@@ -1,0 +1,50 @@
+.Login_btn{
+    height: fit-content;
+    padding: 7px;
+    border: 1px solid #f1f3f6;
+    color: #f1f3f6;
+    background: transparent;
+    font-size: 20px;
+    font-weight: 300;
+    border-radius: 10px;
+  }
+
+  .Login_btn:hover{
+    color: #f1f3f6;
+    background: #184235;
+    transition: all 0.3s;
+    cursor: pointer;
+    font-weight: 500;
+    border: 2px solid #184235;
+  }
+
+.list{
+  display: flex;
+  gap: 25px;
+  align-items: center;
+  color: #f1f3f6;
+  text-decoration: none;
+  font-weight: 300;
+  font-size: 20px;
+  position: relative;
+}
+li{
+  color: #f1f3f6;
+}
+
+.logo{
+    width: 300px;
+    height: 100px;
+}
+
+.home_nav{
+    max-width: 1500px;
+    min-width: 1500px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    color: white;
+   
+}
