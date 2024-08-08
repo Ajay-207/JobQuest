@@ -4,7 +4,7 @@ Built using HTML, CSS, React.js for the frontend, and Node.js, Express.js, and M
 
 
 
-Features
+FEATURES:
 
 User Authentication and Authorization: Secure user management using JWT.
 
@@ -17,7 +17,7 @@ Job Seeker Functionalities: Job seekers can browse and apply for jobs.
 
 
 
-Technologies Used:
+TECHNOLOGIES USED:
 
 Frontend: HTML, CSS, React.js
 
@@ -27,7 +27,7 @@ Database: MongoDB
 
 
 
-Usage:
+USAGE:
 
 Sign Up / Log In: Create an account or log in as an employer or job seeker.
 
