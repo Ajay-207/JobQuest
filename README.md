@@ -1,4 +1,4 @@
-JobQuest is a web application that facilitates seamless interaction between employers and job seekers. Employers can post job listings, and job seekers can browse and apply for jobs, creating a streamlined job search experience.
+JobQuest is a (Job Search) web application that facilitates seamless interaction between employers and job seekers. Employers can post job listings, and job seekers can browse and apply for jobs, creating a streamlined job search experience.
 
 
 
